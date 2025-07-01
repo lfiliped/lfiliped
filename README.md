@@ -60,7 +60,7 @@
 
 <div align="left">
   <a href="mailto:diasfilipe3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail badge" /></a>
-  <a href="https://www.linkedin.com/in/filipe-dias-567091357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin badge" /></a>
+  <a href="https://www.linkedin.com/in/lfiliped/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin badge" /></a>
 </div>
 
 ###
